@@ -111,6 +111,11 @@ button{
     font-weight: 600;
 }
 
+#typed-text{
+    color: rgb(41, 41, 249);
+    font-weight: 700;
+}
+
 .text-section p {
     font-size: 18px;
     margin-bottom: 30px;
